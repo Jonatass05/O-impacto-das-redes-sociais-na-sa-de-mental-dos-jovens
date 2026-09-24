@@ -7,36 +7,36 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `Kelvin Telis da Silva, RGM: 49744917; Jonatas Ferreira Dias Vieira, RGM: 49776339`
+- Data: `23/09/2026`
 
 ## Preenchimento
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`O impacto das redes sociais na saúde mental dos jovens`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`Redes sociais e comportamento humano.`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `jovens`
+- Objeto estudado: `O cotidiano de jovens e adolescentes em ambientes digitais.`
+- Contexto ou aplicação: `O vícios dos adolescentes em telas`
+- Aspecto que será analisado: `O vícios dos adolescentes em telas`
+- O que ficará fora do estudo: `Tratamentos médicos e farmacológicos, diagnósticos clínicos psiquiátricos, infraestrutura técnica de redes e outras faixas etárias como adultos e idosos.`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`Com a alta exposição diária do público jovem às mídias virtuais, o uso excessivo de redes sociais tem gerado impactos diretos na saúde mental dessa população. Investigar esses efeitos é fundamental para compreender os riscos psicológicos do ambiente digital, conscientizar a sociedade sobre os limites de uso e incentivar a criação de práticas e ambientes virtuais mais seguros`
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `Sim`
+- O tema pode ser estudado no prazo? `Sim`
+- O grupo possui acesso às fontes necessárias? `Sim`
 
 ## Produto da etapa
 
@@ -44,14 +44,16 @@ Tema delimitado e justificativa.
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
-- [ ] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [x] O tema é específico.
+- [x] O tema é relevante.
+- [x] O tema é viável.
+- [x] O recorte está claro.
+- [x] O tema foi validado pelo professor.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `Kelvin` | `preenchimento das informações` |
+| `Jonatas` | `Pesquisa` |
+
