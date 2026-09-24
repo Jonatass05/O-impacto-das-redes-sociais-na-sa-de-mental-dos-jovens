@@ -17,8 +17,9 @@
 - Contexto ou aplicação: `O cotidiano de jovens e adolescentes em ambientes digitais.`
 - Aspecto que será analisado: `O vícios dos adolescentes em telas`
 - O que ficará fora do estudo: `[preencher]`
-- Justificativa:
-`Com a alta exposição diária do público jovem às mídias virtuais, o uso excessivo de redes sociais tem gerado impactos diretos na saúde mental dessa população. Investigar esses efeitos é fundamental para compreender os riscos psicológicos do ambiente digital, conscientizar a sociedade sobre os limites de uso e incentivar a criação de práticas e ambientes virtuais mais seguros`
+## Justificativa:
+
+- `Com a alta exposição diária do público jovem às mídias virtuais, o uso excessivo de redes sociais tem gerado impactos diretos na saúde mental dessa população. Investigar esses efeitos é fundamental para compreender os riscos psicológicos do ambiente digital, conscientizar a sociedade sobre os limites de uso e incentivar a criação de práticas e ambientes virtuais mais seguros`
 
 ## Viabilidade
 
