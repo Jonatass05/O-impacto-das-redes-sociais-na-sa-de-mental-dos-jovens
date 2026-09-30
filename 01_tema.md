@@ -7,7 +7,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `Kelvin Telis da Silva RGM: 49744917, Jonatas Ferreira Dias Vieira RGM: 49776339, Lucas Vinicius Bento Silva RGM 50044796`
+- Integrantes: `Kelvin Telis da Silva RGM: 49744917, Jonatas Ferreira Dias Vieira RGM: 49776339, Lucas Vinicius Bento Silva RGM: 50044796`
 - Data: `23/09/2026`
 
 ## Preenchimento
