@@ -6,24 +6,23 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`Por que redes sociais são fonte de vários casos de ansiedade e depressao entre os jovens?`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`Entender e analisar a grande alta de depressão e ansiedade entre os jovens por meio das redes socias`
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
-4. `[opcional]`
+1. `Buscar soluções para essa problematica`
+2. `Entender como afeta os jovens`
+3. `Saber porque os jovens são a faixa-etaria mais afetada`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
+| Problema | `Impacto das redes sociais na saude mental dos jovens` |
 | Objetivo geral | `[preencher]` |
 | Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
 
