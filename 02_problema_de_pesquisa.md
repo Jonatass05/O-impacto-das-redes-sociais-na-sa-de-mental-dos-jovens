@@ -6,7 +6,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`Impacto social da tecnologia`
+`O impacto das redes sociais na saúde mental dos jovens`
 
 ## Pergunta de pesquisa
 
