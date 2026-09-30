@@ -23,8 +23,8 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 | Elemento | Texto |
 |---|---|
 | Problema | `Impacto das redes sociais na saude mental dos jovens` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Objetivo geral | `Entender e analisar a grande alta de depressão e ansiedade entre os jovens por meio das redes socias` |
+| Resultado esperado | `Incendiar a chama desse questionamento dentro desta problematica, apresentando uma analise desse tema e buscando uma solução` |
 
 ## Produto da etapa
 
@@ -32,7 +32,7 @@ Um objetivo geral e de três a quatro objetivos específicos.
 
 ## Checklist
 
-- [ ] Os objetivos começam com verbos no infinitivo.
-- [ ] O objetivo geral responde ao problema.
-- [ ] Os objetivos específicos detalham o objetivo geral.
-- [ ] Os objetivos são compatíveis com uma revisão bibliográfica.
+- [x] Os objetivos começam com verbos no infinitivo.
+- [x] O objetivo geral responde ao problema.
+- [x] Os objetivos específicos detalham o objetivo geral.
+- [x] Os objetivos são compatíveis com uma revisão bibliográfica.
