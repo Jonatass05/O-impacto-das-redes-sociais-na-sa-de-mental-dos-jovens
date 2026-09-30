@@ -15,11 +15,11 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
+- Curso e disciplina: `Análise e Desenvolvimento de Sistemas - Design Profissional`
+- Professor ou orientador: `Isabella Luiza Dos Santos Souza`
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
+- Integrantes: `Kelvin Telis, Lucas Vinicius e Jonatas Vieira`
+- Data de início: `23/09/2026`
 
 
 
