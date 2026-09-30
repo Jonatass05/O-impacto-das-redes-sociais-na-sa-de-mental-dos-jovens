@@ -14,7 +14,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Objetivos específicos
 
-1. `Buscar soluções para essa problematica`
+1. `Analisar soluções para essa problematica`
 2. `Entender como afeta os jovens`
 3. `Saber porque os jovens são a faixa-etaria mais afetada`
 
