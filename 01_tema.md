@@ -18,7 +18,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`Redes sociais e comportamento humano.`
+`Impacto social da tecnologia`
 
 ### Do tema amplo ao específico
 
