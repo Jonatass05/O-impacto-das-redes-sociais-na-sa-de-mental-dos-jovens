@@ -10,7 +10,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Pergunta de pesquisa
 
-`por que redes sociais são fonte de vários casos de ansiedade e depressao entre os jovens?`
+`Por que redes sociais são fonte de vários casos de ansiedade e depressao entre os jovens?`
 
 ## Verificação
 
