@@ -107,7 +107,7 @@ Página: `1`
 
 ### Citação literal opcional
 
-> `“Conclui-se que respostas isoladas são insuficientes e que a prevenção efetiva exige articulação entre família, escola, atenção primária, saúde mental, enfermagem, medicina, psicologia, serviço social, educação, fisioterapia, odontologia e políticas de proteção digital.”`
+> `Conclui-se que respostas isoladas são insuficientes e que a prevenção efetiva exige articulação entre família, escola, atenção primária, saúde mental, enfermagem, medicina, psicologia, serviço social, educação, fisioterapia, odontologia e políticas de proteção digital.`
 
 Página: `1`
 
