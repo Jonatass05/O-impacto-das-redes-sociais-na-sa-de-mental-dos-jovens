@@ -18,11 +18,11 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-`Quais tipos de problemas na saude mental estao relacionados ao uso de redes sociais pelos jovens?`
+`Quais tipos de problemas na saúde mental estão relacionados ao uso de redes sociais pelos jovens?`
 
 ### Objetivo do estudo
 
-`Buscamos identificar os impactos do uso excessivo de redes sociais na saude mental dos jovens`
+`Buscamos identificar os impactos do uso excessivo de redes sociais na saúde mental dos jovens`
 
 ### Método utilizado
 
@@ -34,11 +34,11 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Principais resultados
 
-`O estudo expôs os efeitos que o mau uso de redes sociais podem causar na saúde mental dos jovens, como ansiedade, dependencia digital, baixa auto-estima, e nos casos mais extremos, Depressão`
+`O estudo expôs os efeitos que o mau uso de redes sociais podem causar na saúde mental dos jovens, como ansiedade, dependência digital, baixa autoestima, e nos casos mais extremos, depressão`
 
 ### Limitações apresentadas
 
-`O estudo busca conscientizar pais, responsaveis e escolas, destacando o acolhimento e a pré-identificação desses riscos.`
+`O estudo busca conscientizar pais, responsáveis e escolas, destacando o acolhimento e a pré-identificação desses riscos.`
 
 ### Contribuição para o nosso artigo
 
@@ -46,7 +46,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Comentário crítico
 
-`Um estudo mais atual do que nunca. Ele nos mostra como a ultilzação de forma inadequada das redes pode afetar a juventude e costumam constribuir para a construção de uma idealização de uma vida perfeita nas redes.`
+`Um estudo mais atual do que nunca. Ele nos mostra como a utilização de forma inadequada das redes pode afetar a juventude e costumam constribuir para a construção de uma idealização de uma vida perfeita nas redes.`
 
 ### Citação literal Opcional
 
