@@ -79,7 +79,7 @@ Página: `1`
 
 ### Objetivo do estudo
 
-`Analisar criticamente o impacto das redes sociais na saúde mental dos adolescentes e gerar um debate sobre a importância da atuação multidisciplinar na prevenção, na identificação muito precoce e no cuidado.`
+`Analisar criticamente o impacto das redes sociais na saúde mental dos adolescentes e gerar um debate sobre a importância da atuação multidisciplinar na prevenção, na identificação precoce e no cuidado.`
 
 ### Método utilizado
 
@@ -87,11 +87,11 @@ Página: `1`
 
 ### Contexto, amostra ou dados
 
-`Um artigo que abordam adolescentes, redes sociais, desfechos de saúde mental e estratégias de cuidado.`
+`Um artigo que aborda adolescentes, redes sociais, desfechos de saúde mental e estratégias de cuidado.`
 
 ### Principais resultados
 
-`Os efeitos na saúde mental não decorrem apenas do tempo de tela, mas da interação entre características individuais, design das plataformas, conteúdo acessado e contexto social. Os casos mais frequentes emvolvem sintomas depressivos e ansiosos.`
+`Os efeitos na saúde mental não decorrem apenas do tempo de tela, mas da interação entre características individuais, design das plataformas, conteúdo acessado e contexto social. Os casos mais frequentes envolvem sintomas depressivos e ansiosos.`
 
 ### Limitações apresentadas
 
@@ -99,7 +99,7 @@ Página: `1`
 
 ### Contribuição para o nosso artigo
 
-`O artigo fundamenta a relação entre redes sociais e saúde mental é multifatorial e bidirecional, fazendo um destaque a urgência de uma rede de apoio integrada em vez de respostas isoladas ou excessivas.`
+`O artigo fundamenta que a relação entre redes sociais e saúde mental é multifatorial e bidirecional, fazendo um destaque à urgência de uma rede de apoio integrada em vez de respostas isoladas ou excessivas.`
 
 ### Comentário crítico
 
