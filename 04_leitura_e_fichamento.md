@@ -50,9 +50,9 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Citação literal Opcional
 
-> `[trecho exato]`
+> `A internet é considerada como uma ferramenta indispensável pelo uso em excesso contribuindo para o surgimento de ansiedade e danos à saúde física e mental gerando dependência digital, mudança na qualidade de vida e no sono, baixa autoestima e depressão`
 
-Página: `[número]`
+Página: `1`
 
 ## Checklist
 
