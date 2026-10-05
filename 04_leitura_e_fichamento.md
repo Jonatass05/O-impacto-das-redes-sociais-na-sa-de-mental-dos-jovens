@@ -9,10 +9,10 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 ## Identificação do artigo 1
 
 * Referencia completa: `VERAS, Antonia Doriana Araújo; DONDA, Ana Carolina. O impacto das redes sociais na saúde mental dos jovens. Revista FT, v. 28, n. 135, jun. 2024.`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* DOI ou URL: `10.5281/zenodo.11581477`
+* Base de origem: `Biblioteca Virtual em Saúde (BVS), Google Acadêmico e SciELO`
+* Leitor responsável: `Jonatas Ferreira Dias Vieira`
+* Data da leitura: `02/10/2026`
 
 ## Fichamento
 
