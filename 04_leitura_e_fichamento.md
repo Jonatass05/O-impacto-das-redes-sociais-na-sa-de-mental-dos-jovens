@@ -6,7 +6,7 @@ Preencha **uma cópia** deste template **para cada artigo** selecionado.
 
 Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação entre 2021 a 2026.
 
-## Identificação do artigo
+## Identificação do artigo 1
 
 * Referência completa: `[preencher]`
 * DOI ou URL: `[preencher]`
@@ -53,6 +53,123 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 > `[trecho exato]`
 
 Página: `[número]`
+
+## Checklist
+
+* [x] O artigo foi lido além do resumo.
+* [x] O método e os resultados foram identificados.
+* [x] As limitações foram registradas.
+* [x] A conexão com o tema foi explicada.
+* [x] Toda citação literal contém página.
+
+
+## Identificação do artigo 2
+
+* Referência completa: `[preencher]`
+* DOI ou URL: `[preencher]`
+* Base de origem: `[preencher]`
+* Leitor responsável: `[preencher]`
+* Data da leitura: `[dd/mm/aaaa]`
+
+## Fichamento
+
+### Problema investigado
+
+`[preencher]`
+
+### Objetivo do estudo
+
+`[preencher]`
+
+### Método utilizado
+
+`[preencher]`
+
+### Contexto, amostra ou dados
+
+`[preencher]`
+
+### Principais resultados
+
+`[preencher]`
+
+### Limitações apresentadas
+
+`[preencher]`
+
+### Contribuição para o nosso artigo
+
+`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+
+### Comentário crítico
+
+`[Registre forças, fragilidades, concordâncias ou divergências.]`
+
+### Citação literal opcional
+
+> `[trecho exato]`
+
+Página: `[número]`
+
+
+
+## Checklist
+
+* [x] O artigo foi lido além do resumo.
+* [x] O método e os resultados foram identificados.
+* [x] As limitações foram registradas.
+* [x] A conexão com o tema foi explicada.
+* [x] Toda citação literal contém página.
+
+## Identificação do artigo 3
+
+* Referência completa: `[preencher]`
+* DOI ou URL: `[preencher]`
+* Base de origem: `[preencher]`
+* Leitor responsável: `[preencher]`
+* Data da leitura: `[dd/mm/aaaa]`
+
+## Fichamento
+
+### Problema investigado
+
+`[preencher]`
+
+### Objetivo do estudo
+
+`[preencher]`
+
+### Método utilizado
+
+`[preencher]`
+
+### Contexto, amostra ou dados
+
+`[preencher]`
+
+### Principais resultados
+
+`[preencher]`
+
+### Limitações apresentadas
+
+`[preencher]`
+
+### Contribuição para o nosso artigo
+
+`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+
+### Comentário crítico
+
+`[Registre forças, fragilidades, concordâncias ou divergências.]`
+
+### Citação literal opcional
+
+> `[trecho exato]`
+
+Página: `[número]`
+
+
 
 ## Checklist
 
