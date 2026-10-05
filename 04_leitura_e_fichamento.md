@@ -65,51 +65,51 @@ Página: `1`
 
 ## Identificação do artigo 2
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Referência completa: `LIMA, Ismael de Souza et al. O impacto das redes sociais na saúde mental dos adolescentes: a importância da atuação multidisciplinar na prevenção e no cuidado. Revista Tópicos, v. 28, n. 135, jul. 2026.`
+* DOI ou URL: `10.70773/revistatopicos/785202692`
+* Base de origem: `PubMed/MEDLINE, BVS/LILACS, SciELO e Google Scholar`
+* Leitor responsável: `Lucas Vinicius Bento Silva`
+* Data da leitura: `05/10/2026`
 
 ## Fichamento
 
 ### Problema investigado
 
-`[preencher]`
+`Quais são os impactos reais das redes sociais na saúde mental dos adolescentes e de que maneira a atuação multidisciplinar pode atuar na prevenção, na identificação precoce e no cuidado?`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`Analisar criticamente o impacto das redes sociais na saúde mental dos adolescentes e gerar um debate sobre a importância da atuação multidisciplinar na prevenção, na identificação muito precoce e no cuidado.`
 
 ### Método utilizado
 
-`[preencher]`
+`Revisão integrativa de abordagem qualitativa e natureza analítico-aplicada, com buscas em bases eletrônicas`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`Um artigo que abordam adolescentes, redes sociais, desfechos de saúde mental e estratégias de cuidado.`
 
 ### Principais resultados
 
-`[preencher]`
+`Os efeitos na saúde mental não decorrem apenas do tempo de tela, mas da interação entre características individuais, design das plataformas, conteúdo acessado e contexto social. Os casos mais frequentes emvolvem sintomas depressivos e ansiosos.`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`A heterogeneidade dos instrumentos de medida, a predominância de estudos observacionais e autorreferidos, e a rápida transformação das plataformas digitais.`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`O artigo fundamenta a relação entre redes sociais e saúde mental é multifatorial e bidirecional, fazendo um destaque a urgência de uma rede de apoio integrada em vez de respostas isoladas ou excessivas.`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`O artigo desmistifica a ideia simplista de que "mais tempo de tela" é o único vilão, dando atenção com clareza o papel fundamental de equipes multiprofissionais`
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> `“Conclui-se que respostas isoladas são insuficientes e que a prevenção efetiva exige articulação entre família, escola, atenção primária, saúde mental, enfermagem, medicina, psicologia, serviço social, educação, fisioterapia, odontologia e políticas de proteção digital.”`
 
-Página: `[número]`
+Página: `1`
 
 
 
