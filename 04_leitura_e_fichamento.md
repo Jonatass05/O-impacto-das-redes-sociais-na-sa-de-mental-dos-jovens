@@ -48,7 +48,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 `Um estudo mais atual do que nunca. Ele nos mostra como a ultilzação de forma inadequada das redes pode afetar a juventude e costumam constribuir para a construção de uma idealização de uma vida perfeita nas redes.`
 
-### Citação literal opcional
+### Citação literal Opcional
 
 > `[trecho exato]`
 
