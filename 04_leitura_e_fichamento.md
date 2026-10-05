@@ -8,7 +8,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo 1
 
-* Referência completa: ``
+* Referencia completa: ``
 * DOI ou URL: `[preencher]`
 * Base de origem: `[preencher]`
 * Leitor responsável: `[preencher]`
