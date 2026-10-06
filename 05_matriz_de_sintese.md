@@ -14,7 +14,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`Eixo 1, Eixo 2, Eixo 3`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 
 ## Roteiro da revisão da literatura
 
