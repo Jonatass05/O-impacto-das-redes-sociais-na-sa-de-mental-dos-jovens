@@ -137,11 +137,11 @@ Página: `1`
 
 ### Objetivo do estudo
 
-`Explorar como o cotidiano digital molda a relação dos jovens com si mesmos e os outros ao redor, investigando os impactos na saúde mental e propondo dicas para um uso etíco da tecnologia.`
+`Explorar como o cotidiano digital molda a relação dos jovens com si mesmos e os outros ao redor, investigando os impactos na saúde mental e propondo dicas para um uso ético da tecnologia.`
 
 ### Método utilizado
 
-`Estudo baseado em dados coletados recentemente, utilizando gráficos comparativos e imagens relacionadas as causas de dependência digital e os impactos psicológicos.`
+`Estudo baseado em dados coletados recentemente, utilizando gráficos comparativos e imagens relacionadas às causas de dependência digital e os impactos psicológicos.`
 
 ### Contexto, amostra ou dados
 
@@ -165,7 +165,7 @@ Página: `1`
 
 ### Citação literal opcional
 
-> `“A exposição contínua a padrões de vida idealizados, a comparação social intensa, a pressão por validação (através de curtidas e seguidores) e o medo de estar por fora (FOMO) são apontados como fatores que intensificam o sofrimento psíquico.”`
+> `A exposição contínua a padrões de vida idealizados, a comparação social intensa, a pressão por validação (através de curtidas e seguidores) e o medo de estar por fora (FOMO) são apontados como fatores que intensificam o sofrimento psíquico.`
 
 Página: `1`
 
