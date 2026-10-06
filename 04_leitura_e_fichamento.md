@@ -123,51 +123,51 @@ Página: `1`
 
 ## Identificação do artigo 3
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Referência completa: `FELIPPE, Augusto Maia; MICHELON, Leandro José. Ansiedade digital: efeitos do uso excessivo de redes sociais na saúde mental de jovens. Aracê, v. 7, n. 6, p. 32928–32941, 18 jun. 2025.`
+* DOI ou URL: `10.56238/arev7n6-223`
+* Base de origem: `Revista Aracê`
+* Leitor responsável: `Kelvin Telis da Silva`
+* Data da leitura: `05/10/2026`
 
 ## Fichamento
 
 ### Problema investigado
 
-`[preencher]`
+`De que maneira o uso excessivo das redes sociais pode causar efeitos negativos na saúde emocional e psicológica de adolescentes e jovens adultos?`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`Explorar como o cotidiano digital molda a relação dos jovens com si mesmos e os outros ao redor, investigando os impactos na saúde mental e propondo dicas para um uso etíco da tecnologia.`
 
 ### Método utilizado
 
-`[preencher]`
+`Estudo baseado em dados coletados recentemente, utilizando gráficos comparativos e imagens relacionadas as causas de dependência digital e os impactos psicológicos.`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`Jovens e adolescentes conectados à internet constantemente expostos a padrões de vida idealizados, comparação social, pressão por validação Digital.`
 
 ### Principais resultados
 
-`[preencher]`
+`O estudo aponta que sentimentos de ansiedade, insatisfação pessoal, comparação social intensa estão cada vez mais presentes na juventude. somados à ação dos algoritmos que geram um estado de alerta permanente, intensificam o estabilidade mental e a dependência digital.`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`O artigo concentra-se na análise interpretativa dos efeitos comportamentais da hiperfoco em redes sociais, priorizando uma abordagem acessível e reflexiva.`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`O trabalho fundamenta a pesquisa ao detalhar como a arquitetura das plataformas digitais afeta o equilíbrio emocional, reforçando a importância do supervisão digital e o cuidado da saúde mental.`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`Uma leitura que traduz com clareza o funcionamento da "ansiedade digital", conectando o design das redes sociais diretamente aos sintomas de estabilidade emocional dos jovens.`
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> `“A exposição contínua a padrões de vida idealizados, a comparação social intensa, a pressão por validação (através de curtidas e seguidores) e o medo de estar por fora (FOMO) são apontados como fatores que intensificam o sofrimento psíquico.”`
 
-Página: `[número]`
+Página: `1`
 
 
 
