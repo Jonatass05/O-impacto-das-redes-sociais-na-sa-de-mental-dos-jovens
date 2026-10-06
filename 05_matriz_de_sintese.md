@@ -14,7 +14,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`Eixo 1`|`Veras & Donda (2024); Lima et al. (2026); Felippe & Michelon (2025)`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`Eixo 1`|`Veras & Donda (2024); Lima et al. (2026); Felippe & Michelon (2025)`|`Os três estudos convergem ao apontar que o uso excessivo das redes sociais gera quadros clínicos evidentes de ansiedade, depressão, solidão e insatisfação pessoal entre jovens.`|`[preencher]`|`[preencher]`|`[preencher]`|
 |`Eixo 2`|`Veras & Donda (2024); Lima et al. (2026); Felippe & Michelon (2025)`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 |`Eixo 3`|`Veras & Donda (2024); Lima et al. (2026); Felippe & Michelon (2025)`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 
