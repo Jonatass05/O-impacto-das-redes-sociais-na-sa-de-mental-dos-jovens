@@ -15,8 +15,8 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
 |`Eixo 1`|`Veras & Donda (2024); Lima et al. (2026); Felippe & Michelon (2025)`|`Os três estudos convergem ao apontar que o uso excessivo das redes sociais gera quadros clínicos evidentes de ansiedade, depressão, solidão e insatisfação pessoal entre jovens.`|`[preencher]`|`[preencher]`|`[preencher]`|
-|`Eixo 2`|`Veras & Donda (2024); Lima et al. (2026); Felippe & Michelon (2025)`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
-|`Eixo 3`|`Veras & Donda (2024); Lima et al. (2026); Felippe & Michelon (2025)`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`Eixo 2`|`Veras & Donda (2024); Lima et al. (2026); Felippe & Michelon (2025)`|`Todos destacam que o problema não se restringe ao tempo de tela, mas envolve a comparação com padrões irreais, pressões estéticas e o design persuasivo das plataformas.`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`Eixo 3`|`Veras & Donda (2024); Lima et al. (2026); Felippe & Michelon (2025)`|`Convergem na necessidade de intervenções conjuntas (família, escola e saúde) e rejeitam abordagens isoladas ou puramente proibitivas.`|`[preencher]`|`[preencher]`|`[preencher]`|
 
 ## Roteiro da revisão da literatura
 
