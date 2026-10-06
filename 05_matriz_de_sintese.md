@@ -6,9 +6,9 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `[Eixo ou subtema 1]`
-2. `[Eixo ou subtema 2]`
-3. `[Eixo ou subtema 3, se necessário]`
+1. `Impactos clínicos e manifestações psíquicas`
+2. `Fatores determinantes e arquitetura das plataformas`
+3. `Estratégias de cuidado, redes de apoio e atuação multiprofissional/enfermagem`
 
 ## Matriz de síntese
 
