@@ -22,7 +22,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 1
 
-* Ideia principal: `[preencher]`
+* Ideia principal: `[compreender os principais gatilhos e consequências que decorrem do mau uso das redes sociais entre os jovens.]`
 * Evidências que serão usadas: `[preencher]`
 * Comparação entre estudos: `[preencher]`
 * Ligação com o problema: `[preencher]`
@@ -33,6 +33,14 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 * Evidências que serão usadas: `[preencher]`
 * Comparação entre estudos: `[preencher]`
 * Ligação com o problema: `[preencher]`
+
+  ### Eixo 3
+
+* Ideia principal: `[preencher]`
+* Evidências que serão usadas: `[preencher]`
+* Comparação entre estudos: `[preencher]`
+* Ligação com o problema: `[preencher]`
+
 
 ## Síntese crítica provisória
 
