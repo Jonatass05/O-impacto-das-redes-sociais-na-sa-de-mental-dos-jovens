@@ -23,33 +23,33 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 ### Eixo 1
 
 * Ideia principal: `[compreender os principais gatilhos e consequências que decorrem do mau uso das redes sociais entre os jovens.]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Evidências que serão usadas: `[Mostram distúrbios físicos e mentais ligados à dependência digital, reforçando o aumento de casos de instabilidade na saúde mental dos Jovens, além de sintomas de instabilidade emocional, solidão e ansiedade.]`
+* Comparação entre estudos: `[Parte dos trabalhos foca na ansiedade digital e no medo de ficar por fora, enquanto outros ampliam o olhar para os impactos gerais na qualidade de vida e na saúde pública.]`
+* Ligação com o problema: `[Mostra que o uso sem limites das redes dispara e piora problemas psicológicos nos jovens, exigindo intervenções de profissionais.]`
 
 ### Eixo 2
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `[Mostrar como as redes tem uma estrutura arquitetada para impactar os jovens.]`
+* Evidências que serão usadas: `[Efeitos dos algoritmos na mente humana, pressão por curtidas e padrões de beleza, cyberbullying e a relação com a arquitetura das plataformas.]`
+* Comparação entre estudos: `[Alguns focam na pressão estética e no cyberbullying, outros explicam como os algoritmos prendem o cérebro.]`
+* Ligação com o problema: `[Prova que a culpa não é apenas do usuário, mas também das redes, feitas para prender a atenção e explorar os usuários.]`
 
   ### Eixo 3
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `[Mostrar meios de prevenção e cuidado integrado unindo família, escola e profissionais de saúde.]`
+* Evidências que serão usadas: `[Importância do cuidado multidisciplinar, supervisão digital ativa e orientação ética nas escolas e lares.]`
+* Comparação entre estudos: `[Alguns destacam o papel da enfermagem e do posto de saúde no primeiro atendimento, outros preferem uma equipe de profissionais ou o foco na união da família e a escola.]`
+* Ligação com o problema: `[Mostra meios de lidar com o problema, unindo saúde, escola e família para proteger os jovens.]`
 
 
 ## Síntese crítica provisória
 
-`[Escreva um parágrafo indicando tendências, divergências e lacunas.]`
+`[Os estudos mostram que as redes afetam a saúde mental dos jovens devido a algoritmos e pressões sociais, divergindo apenas no foco neurocomportamental, social ou multiprofissional. A grande lacuna é a falta de dados de longo prazo e de testes práticos de saúde.]`
 
 ## Checklist
 
-* [ ] Os artigos foram agrupados por ideias.
-* [ ] Há comparações entre estudos.
-* [ ] As divergências foram registradas.
-* [ ] As lacunas são específicas e sustentadas pelas leituras.
+* [x] Os artigos foram agrupados por ideias.
+* [x] Há comparações entre estudos.
+* [x] As divergências foram registradas.
+* [x] As lacunas são específicas e sustentadas pelas leituras.
 
