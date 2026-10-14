@@ -29,8 +29,8 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 2
 
-* Ideia principal: `[Mostrar como as redes tem uma estrutura arquitetada para impactar os jovens.]`
-* Evidências que serão usadas: `[Efeitos dos algoritmos na mente humana, pressão por curtidas e padrões de beleza, cyberbullying e a relação com a arquitetura das plataformas.]`
+* Ideia principal: `Mostrar como as redes tem uma estrutura arquitetada para impactar os jovens.`
+* Evidências que serão usadas: `Efeitos dos algoritmos na mente humana, pressão por curtidas e padrões de beleza, cyberbullying e a relação com a arquitetura das plataformas.`
 * Comparação entre estudos: `[Alguns focam na pressão estética e no cyberbullying, outros explicam como os algoritmos prendem o cérebro.]`
 * Ligação com o problema: `[Prova que a culpa não é apenas do usuário, mas também das redes, feitas para prender a atenção e explorar os usuários.]`
 
