@@ -47,7 +47,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
 |`Metodologia`|`Ausência do detalhamento temporal e dos descritores exatos de busca.`|`Inclusão do período de publicação (2024–2026) e das palavras-chave de busca nas bases eletrônicas.`|`Kelvin tellis`|
-|`[Revisão da literatura`|`Citações dos autores no corpo do texto sem a devida padronização gramatical e de concordância.`|`Ajuste da citação de Veras & Donda, Lima et al. e Felippe & Michelon conforme a norma acadêmica ABNT.`|`Lucas Vinicius Bento Silva`|
+|`Revisão da literatura`|`Citações dos autores no corpo do texto sem a devida padronização gramatical e de concordância.`|`Ajuste da citação de Veras & Donda, Lima et al. e Felippe & Michelon conforme a norma acadêmica ABNT.`|`Lucas Vinicius Bento Silva`|
 |`Referências`|`Formatação do DOI e destaque dos títulos das revistas de forma heterogênea.`|`Padronização dos títulos das revistas em negrito e conferência de volumes, números e DOIs de todos os artigos selecionados.`|`Jonatas Ferreira Dias Vieira`|
 
 
