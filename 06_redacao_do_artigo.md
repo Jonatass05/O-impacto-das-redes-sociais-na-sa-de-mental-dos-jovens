@@ -38,11 +38,11 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Considerações finais
 
-`Em resposta ao problema de pesquisa, conclui-se que as redes sociais atuam como causadoras de ansiedade e depressão por meio do uso de algoritmos persuasivos, estimulação do FOMO e perpetuação de comparações idealizadas. O estudo avança ao mostrar a natureza complexa do problema, superando abordagens simples de limitação temporal. Como limitação, destaca-se o uso de dados predominantemente autorreferidos nas fontes. Recomenda-se a realização de pesquisas empíricas longitudinais e o desenvolvimento de estratégias integradas entre família, escola e profissionais de saúde.`
+`Em resposta ao problema de pesquisa, conclui-se que as redes sociais atuam como causadoras de ansiedade e depressão por meio do uso de algoritmos persuasivos, estimulação do FOMO e perpetuação de comparações idealizadas. O estudo avança ao mostrar a natureza complexa do problema, superando abordagens simples de limitação temporal. Como limitação, destaca-se o uso de dados excessivo de dados baseados em auto experiência. Recomenda-se a realização de pesquisas e desenvolvimento de estratégias integradas entre família, escola e profissionais de saúde.`
 
 ## Resumo
 
-`A hiperconexão digital tem afetado o bem-estar de jovens e adolescentes. Este artigo objetivou analisar os impactos do uso excessivo das redes sociais na saúde mental dessa população, buscando responder aos fatores determinantes no aumento de casos de ansiedade e depressão. Realizou-se uma revisão bibliográfica de literatura em bases eletrônicas (BVS, SciELO, PubMed, Google Acadêmico), englobando publicações recentes (2024–2026). Os resultados demonstram que os prejuízos psíquicos decorrem da interação entre arquitetura algorítmica persuasiva, busca por validação e comparações sociais. Conclui-se que o enfrentamento da problematica exige articulação multidisciplinar e estratégias educativas e preventivas conjuntas.`
+`A hiperconexão digital tem afetado o bem-estar de jovens e adolescentes. Este artigo objetivou analisar os impactos do uso excessivo das redes sociais na saúde mental dessa população, buscando responder aos fatores determinantes no aumento de casos de ansiedade e depressão. Realizou-se uma revisão bibliográfica de literatura em bases eletrônicas (BVS, SciELO, PubMed), englobando publicações recentes de 2024 e 2026. Os resultados demonstram que os prejuízos mentais decorrem da interação entre arquitetura algorítmica, busca por validação e comparações sociais. Conclui-se que o enfrentamento da problematica exige articulação multidisciplinar e estratégias educativas e preventivas conjuntas.`
 
 ## Referências
 
